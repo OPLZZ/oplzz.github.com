@@ -1,0 +1,76 @@
+
+
+.program {
+}
+
+.program, .program ul {
+  margin-left:0px;
+  padding-left: 0px;
+}
+.program > li {
+  padding-bottom: 20px;
+  background: url('../img/program.png') repeat-y;
+}
+
+.program > li:last-child {
+  padding-bottom: 20px;
+  background: none;
+}
+
+.program li {
+  list-style: none;
+  margin-left:0px;
+  padding-left: 0px;
+}
+
+.program .time {
+  border:2px dotted #aaa;
+  background:white;
+  padding:4px;
+  -webkit-border-radius: 15px;
+  border-radius: 15px;
+  font-weight: bold;
+  color: #666;
+  font-size: 120%;
+  display: inline-block;
+  text-align:center;
+  padding-top:8px;
+  width:130px;
+}
+
+.program .name {
+  font-weight: bold;
+  color: #444;
+  font-size: 22px;
+  display: inline-block;
+  margin-left:20px;
+}
+
+.program .name.not_inportant {
+  color: #aaa;
+}
+
+.program .speaker {
+  font-size: 22px;
+  margin-left:20px;
+  display: inline-block;
+}
+
+.program .speaker a {
+  font-size: 22px;
+}
+.program .speaker:before{
+  content: "[";
+}
+.program .speaker:after{
+  content: "]";
+}
+
+.program .description {
+  color: #999;
+  font-size: 110%;
+  display: block;
+  margin-left: 153px;
+  padding-bottom: 10px;
+}
+
