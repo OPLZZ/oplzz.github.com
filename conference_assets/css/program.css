@@ -39,7 +39,7 @@
   padding-top:8px;
   width:130px;
   float:left;
-  margin-bottom: 20px;
+  margin-bottom: 0px;
 }
 
 .program .name {
@@ -49,7 +49,8 @@
   display: block;
   margin-left:150px;
   padding-top:10px;
-  margin-bottom: 10px;
+  line-height: 1.1em;
+  max-width: 70%;
 }
 
 .program .name.not_inportant {
@@ -93,4 +94,25 @@
   display: block;
   margin-left: 153px;
   padding-bottom: 10px;
+}
+
+.program .anotation .span3:first-child {
+  margin-left:0px;
+}
+
+.program .preriquisities {
+  color: #777;
+  clear:both;
+  font-size: 16px;
+  display: block;
+  margin-left: 153px;
+  padding-bottom: 10px;
+  padding-top:10px;
+}
+.program .preriquisities b {
+  color: #aaa;
+}
+
+.program .preriquisities .span3:first-child {
+  margin-left:0px;
 }
