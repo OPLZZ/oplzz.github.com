@@ -48,7 +48,7 @@
   font-size: 22px;
   display: block;
   margin-left:150px;
-  padding-top:10px;
+  padding-top:7px;
   line-height: 1.1em;
   max-width: 70%;
 }
@@ -96,10 +96,6 @@
   padding-bottom: 10px;
 }
 
-.program .anotation .span3:first-child {
-  margin-left:0px;
-}
-
 .program .preriquisities {
   color: #777;
   clear:both;
@@ -113,6 +109,11 @@
   color: #aaa;
 }
 
-.program .preriquisities .span3:first-child {
+.program .register {
+  margin-left: 153px;
+  padding-bottom: 10px;
+}
+
+.program .anotation .span3:first-child, .program .preriquisities .span3:first-child, .program .register .span3:first-child {
   margin-left:0px;
 }
