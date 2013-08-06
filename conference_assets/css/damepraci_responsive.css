@@ -73,12 +73,16 @@
   .map_frame {
     width:100%;
     height: 200px;
+    border-radius: 0px;
+    border:none;
   }
 
   .footer img {
     min-width:100%;
     width:90%;
   }
+
+
 }
 
 @media (max-width: 500px) {
