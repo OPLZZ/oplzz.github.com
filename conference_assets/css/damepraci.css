@@ -140,3 +140,16 @@ section {
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#1e62d0', endColorstr='#3d94f6');
   background-color: #1e62d0;
 }
+
+
+.map_frame {
+  height: 600px;
+  width: 600px;
+  border: 3px dotted black;
+  -webkit-border-radius: 300px;  
+  border-radius: 300px;
+}
+
+.trc {
+  margin-left:260px;
+}
