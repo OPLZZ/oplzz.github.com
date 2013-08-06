@@ -460,7 +460,6 @@
 
 @media (min-width: 768px) and (max-width: 979px) {
   .row {
-    margin-left: -20px;
     *zoom: 1;
   }
   .row:before,
@@ -800,10 +799,6 @@
 }
 
 @media (max-width: 767px) {
-  body {
-    padding-right: 20px;
-    padding-left: 20px;
-  }
   .navbar-fixed-top,
   .navbar-fixed-bottom,
   .navbar-static-top {
