@@ -8,6 +8,11 @@
 a {
   color: #0088cc;
 }
+
+.page_break {
+  page-break-after:always;
+}
+
 a:hover {
   color: #aaf;
 }
@@ -169,3 +174,4 @@ section {
 .span3 {
   width: 270px;
 }
+
