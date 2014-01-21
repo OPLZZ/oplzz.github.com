@@ -9,7 +9,7 @@
 }
 .program > li {
   padding-bottom: 20px;
-  background: url('../img/program.png') repeat-y;
+  /*background: url('../img/program.png') repeat-y;*/
   clear:both;
 
 }
@@ -47,7 +47,7 @@
   color: #eee;
   font-size: 22px;
   display: block;
-  margin-left:150px;
+  /*margin-left:150px;*/
   padding-top:7px;
   line-height: 1.1em;
   max-width: 70%;
@@ -63,7 +63,7 @@
 
 .program .speaker {
   font-size: 22px;
-  margin-left:150px;
+  /*margin-left:150px;*/
   margin-bottom: 8px;
   margin-top: 0px;
   padding-top:0px;
@@ -84,7 +84,7 @@
   color: #ccc;
   font-size: 110%;
   display: block;
-  margin-left: 153px;
+  /*margin-left: 153px;*/
   padding-bottom: 10px;
 }
 
@@ -92,7 +92,7 @@
   color: #777;
   font-size: 16px;
   display: block;
-  margin-left: 153px;
+  /*margin-left: 153px;*/
   padding-bottom: 10px;
 }
 
@@ -101,7 +101,7 @@
 }
 
 .program .register {
-  margin-left: 153px;
+  /*margin-left: 153px;*/
   padding-bottom: 10px;
 }
 

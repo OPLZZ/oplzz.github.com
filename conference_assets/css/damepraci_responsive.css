@@ -4,13 +4,13 @@
     margin-left: 0px;
   }
   .span3 {
-    width: 270px;
+    width: 380px;
   }
 }
 
 @media (min-width: 860px) and (max-width: 979px) {
   .span3 {
-    width: 270px;
+    width: 380px;
   }
 }
 
